@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.set {
+  margin: 10% auto;
+  display: inline-block
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 4rem;
+  font-family: 'Times New Roman', cursive;
+  font-weight: 900;
+  color: #ffffff;
+  border-radius: 15px;
+  display: inline-block;
+  width: 110px;
+  height: 280px;
+  text-align:center;
+  background-color: white;
+  position: relative;
+}
+
+.q{
+  background-color: rgb(213, 45, 45);
+  height: 300px;
+}
+.w{
+  background-color: rgb(242, 103, 17);
+  height: 292.5px;
+}
+.e{
+  background-color: rgb(241, 244, 97);
+  height: 285px;
+}
+.r{
+  background-color: rgb(147, 228, 107);
+  height: 277.5px;;
+}
+.t{
+  background-color: rgb(29, 145, 54);
+  height:270px;
+}
+.y{
+  background-color: rgb(122, 194, 226);
+  height: 262.5px ;
+}
+.u{
+  background-color: rgb(44, 57, 117);
+  height: 255.5px;
+}
+.i{
+  background-color: rgb(170, 82, 221);
+  height: 248px;
+}
